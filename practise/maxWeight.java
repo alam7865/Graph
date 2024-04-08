@@ -19,7 +19,6 @@ public class maxWeight {
         int idx=-1;
         for(int i=0;i<n;i++)
         {
-            System.out.println(arr[i]);
             if(max<arr[i])
             {
                 max=arr[i];
